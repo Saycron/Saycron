@@ -1,9 +1,8 @@
-![Header](D:\MyWebsite\images\github-header-image.png)
 
 
 
-<h1 align="center">Hi 👋, I'm Saycron</h1>
-<h3 align="center">A passionate ascasssssssss</h3>
+
+<h1 align="center">Welcome to my github</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saycron&label=Profile%20views&color=0e75b6&style=flat" alt="saycron" /> </p>
 
@@ -24,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saycron&" alt="saycron" /></p>
 
-<p align="left"> <a href="https://alkhalil.me"><img src="https://www.behance.net/gallery/65492643/website-slider-gif-motion/modules/383427073"></a> </p>
